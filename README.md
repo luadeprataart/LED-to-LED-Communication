@@ -18,5 +18,8 @@ Transferência de dados utilizando o método LI-FI aplicado a um LED de 5mm atua
 ### Emissor 
 * Esp8266 nodemcu 
 * Laser verde de 5mW 
-* 
+* Potenciômetro 100kΩ
+* Transistor PNP BC558B
+* Módulo regulador de tensão Stepdown LM2596
+* Díodo 1N4001
 
