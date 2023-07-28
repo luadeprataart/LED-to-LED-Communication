@@ -1,5 +1,8 @@
 # LED-to-LED-Communication
 Transferência de dados utilizando o método LI-FI aplicado a um LED de 5mm atuando como Receptor da comunicação e um laser como Transmissor.
+Este trabalho apresenta uma pesquisa sobre a viabilidade da transmissão de dados por luz entre
+dois LEDs comuns. O objetivo principal é validar a utilização de LEDs comuns como uma solução acessível para a
+tecnologia Li-Fi (Light Fidelity). 
 
 ## Componentes utilizados 
 
